@@ -1,5 +1,7 @@
 # Welcome to HW4! 
 
+Note: data files are too large to upload. <NYC_311_*.csv>
+
 **Important instructions** 
 Please read these instructions before submitting your assignment. 
 If you do not follow the template specified here, **we will not able to grade your assignment**! 

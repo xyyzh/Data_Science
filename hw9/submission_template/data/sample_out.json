@@ -1,0 +1,22 @@
+{
+    "twilight sparkle": {
+        "spike": 10,
+        "narrator": 0,
+        "twinkleshine": 4
+    },
+    "spike": {
+        "twilight sparkle": 10,
+        "narrator": 0,
+        "twinkleshine": 0
+    },
+    "narrator": {
+        "twilight sparkle": 0,
+        "spike": 0,
+        "twinkleshine": 0
+    },
+    "twinkleshine": {
+        "twilight sparkle": 4,
+        "spike": 0,
+        "narrator": 0
+    }
+}
